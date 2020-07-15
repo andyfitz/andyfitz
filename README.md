@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**andyfitz/andyfitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Andy Fitzsimon
 
-Here are some ideas to get you started:
+I work at <a href="https://outfit.io">⭕</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Long-time open source hippy and libre graphics enthusiast.
+
+
+<br/>
+<a href="https://twitter.com/andyfitz">
+  <img width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/andyfitz/">
+  <img   width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/andyfitz/">
+  <img width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
