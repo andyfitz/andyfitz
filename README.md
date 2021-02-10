@@ -2,7 +2,7 @@
 
 I'm Andy Fitzsimon
 
-I work at <a href="https://outfit.io">⭕ Outfit.io</a>
+I run <a href="https://make.cm">make.cm</a> at <a href="https://outfit.io">⭕ Outfit.io</a>
 
 Long-time open source hippy and libre graphics enthusiast.
 
