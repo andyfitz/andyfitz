@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 I'm Andy Fitzsimon
-
-I run the fun for <a href="https://make.cm">🧿 make.cm</a> and <a href="https://outfit.io">⭕ Outfit.io</a>
-
-Long-time open source hippy and libre graphics enthusiast.
+Long-time open source hippy and technology enthusiast.
+You can learn more about me via https://andyfitzsimon.com 
 
 
 <br/>
